@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Rubiks app</string>
+    <string name="app_name">Rubiks Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
